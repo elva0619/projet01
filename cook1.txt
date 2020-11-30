@@ -1,0 +1,85 @@
+<html>
+<head>
+<style>
+.center
+{
+	fixed: center;
+}
+</style>
+<meta charst="UTF-8">
+<title>seongbin's blog-cook1</title>
+<link href="default1.css" rel="stylesheet" type="text/css" media="all" </link>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1><a href="cook.html">Cooking</a></h1>
+				<p><a href="cook.html">My hobby is cooking!</a></p>	
+				<h3><a href="index.html">If you want to go homepage click here</a></h3>		
+			</div>	
+		</div>
+	</div>
+	<div id ="banner">
+	
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="title">
+ 				<h2>닭똥집 볶음</h2>
+				<span class="byline">-닭똥집 냄새 잡는 법-</span>
+			</div>
+			<img class="center"src="ingredient1.jpg" width="200" height="200">
+			<h3>준비재료</h3>
+			<p>
+			마늘 10개, 청양고추 5~6개, 닭똥집(신선해야함), 양파 1개, 먹고 싶은 야채 준비  
+			양조간장, 후추, 맛소금, 설탕 올리고당, 청주or 맛술 준비
+			</p>
+			<h3>조리과정</h3>
+			<img class="center"src="cook3.png" width="200" height="200">
+			<ul>
+			<ol>1. 닭똥집 세척한후 1/2등분한다.</ol>
+			<ol>2. 청주나 소주로 이용해 15~20분 담그기</ol>
+			<ol>3. 끓은 물에 닭똥집을 넣고 맛술1숟가락 넣어서 5분있다 꺼내기(누린내제거)</ol>
+			<ol>4. 체로 걸러 똥집의 물기 제거(5분정도)</ol>
+			<ol>5. 후라이팬에 식용유를 두른후 야채를 넣는다</ol>
+			<ol>6. 마늘이 반쯤 익으면 똥집넣기</ol>
+			<ol>7. 간장 1숟가락 ,후추반숟가락 ,소금 두꼬집, 설탕반숟가락, 올리고당 1숟가락, 고추가루1숟가락, 참기름, 깨소금을 원하는 만큼 넣고 마무리</ol>
+			</ul>
+
+		</div>
+			<div id="sidebar">
+				<div class="box2">
+					<div class="title">
+						<h2 ">요리 목록</h2>
+					</div>	
+					<ul class="style2">
+						<li><a href="cook.html">불고기</a></li>	
+						<li><a href="cook1.html">닭똥집 볶음</a></li>		
+					</ul>
+				</div>
+			</div>
+	</div>
+</div>
+<div id="portfolio-wrapper">
+	<div id="portfolio" class="container">	
+		<div class="column1">
+			<div class="title">
+				<h2>불고기</h2>
+			</div>
+			<a href="cook.html"><img src="cook2.jpg" width="150" height="150"></a>
+		</div>
+		<div class="column2">
+			<div class="title">
+				<h2>닭똥집 볶음</h2>
+			</div>
+			<a href="cook1.html"><img src="cook3.png" width="150" height="150"></a>
+		</div>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>전화번호 : 010-5513-9525 ｜이메일 : elva0619@naver,com</p>
+</div>
+</body>
+</html>

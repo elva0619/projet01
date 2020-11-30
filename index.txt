@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.img 
+{
+	display: inline;
+	position:relative;
+}
+.left
+{
+	float: left;
+}
+</style>
+<meta charst="UTF-8">
+<title>seongbin's blog</title>
+<link href="default.css" rel="stylesheet" type="text/css" media="all" </link>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1 class="fontsize1"><a href="index.html">My Blog</a></h1>
+				<p class="fontsize2"><a href="index.html">20202699 손성빈</a></p>			
+			</div>	
+		</div>
+	</div>
+	<div id="menu-wrapper">
+		<div id="menu" class="container">
+			<ul> 
+				<li class="current_page_item page_item1" class="fontsize2"><a href="index.html">Homepage</a></li>
+				<li class="page_item1" class="fontsize2"><a href="cook.html">Cook</a></li>
+				<li class="page_item1" class="fontsize2"><a href="book.html">Book</a></li>
+				<li class="page_item1" class="fontsize2"><a href="major.html">Major</a></li>
+			</ul>
+		</div>
+
+
+	</div>
+	<div id ="banner">
+	
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="title">
+ 				<h2 class="fontshadow">Introduce</h2>
+				<span class="byline">나의 꿈과 계획에 대해서</span>
+			</div>
+			<img class="left" src="It2.jpg" height="150" width="150">
+			<p.class="fontsize3">
+			저는 중학교 때 애덤 스미스의 이기적 유전자 책을 접한 후 경영에 대한 관심이 커졌습니다. 이후 경영에 관한 다양한 책을 찾아보게 되었고 똑같은 전략이어도 환경과 조건에 따라 결과가 다르게 도출되는 경영에 대한 흥미를 느끼게 되었습니다.
+			 또, 고등학생 때 친구가 자신의 실험을 타당성을 증명하기 위해서 간단히 만든 앱을 이용하여 자신의 실험 타당성을 증명하는 것을 보았습니다. 이후 경영에 대한 전략을 쉽게 설명하고 변수가 많은 경영 전략을 시뮬레이션할 수 있는 홈페이지를 개발하는 것을 꿈꾸게 되었습니다. 
+			이 때문에 경영과 IT가 결합한 전공인 경영정보학부에 지원하였고 2020년 국민대학교 경영정보학부에 입학했습니다. 원하는 전공과 대학교에 진학한 만큼 열심히 수업에 참여하여 경영에 대한 지식과 IT 지식을 쌓아 제 꿈을 실현할 계획입니다. 
+			</p>
+			<p>
+			<a href="http://mis.kookmin.ac.kr/">국민대학교 경영정보 홈페이지</a>
+			</p>
+		</div>
+			<div>
+			</div>
+	</div>
+</div>
+<div id="portfolio-wrapper">
+	<div id="portfolio" class="container">	
+		<div class="column1">
+			<div class="title">
+				<h2>Cook</h2>
+			</div>
+			<a href="cook.html"><img class="img" src="cook1.jpg" height="200" width="200"></a>
+			<p>도전해봤던 요리중에 성공했던 레시피 적어놓았습니다.</p>
+			<a href="cook.html" class="button">Read More</a>
+		</div>
+		<div class="column2">
+			<div class="title">
+				<h2>Book</h2>
+			</div>
+			<a href="book.html"><img class="img" src="book1.jpg" height="200" width="200"></a>
+			<P>책 리뷰</p>
+			<a href="book.html" class="button">Read More</a>
+		</div>
+		<div class="column3">
+			<div class="title">
+				<h2>Major</h2>
+			</div>
+			<a href="major.html"><img class="img" src="major1.jpg"height="200" width="200"></a>
+			<p>전공과 관련있거나 도움되는 컴퓨터 관련 자격증에 관한 내용이 있습니다.</p>
+			<a href="major.html" class="button">Read More</a>
+		</div>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>전화번호 : 010-5513-9525 ｜이메일 : elva0619@naver,com</p>
+</div>
+</body>
+</html>

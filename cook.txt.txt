@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center
+{
+	float:center;
+	display:relative;
+}
+</style>
+<meta charst="UTF-8">
+<title>seongbin's blog</title>
+<link href="default1.css" rel="stylesheet" type="text/css" media="all" </link>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1><a href="cook.html">Cooking</a></h1>
+				<p><a href="cook.html">My hobby is cooking!</a></p>
+						<h3><a href="index.html">If you want to go homepage click here</a></h3>	
+			</div>		
+		</div>
+	</div>
+	<div id ="banner">
+	
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="title">
+ 				<h2>불고기</h2>
+				<span class="byline">-레시피-</span>
+			</div>
+			<h3>재료</h3>
+			<iframe width="856" height="482" src="https://www.youtube.com/embed/p3IQTouKyH0" frameborder="0" allow="accelerometer; autoplay; controlbar; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+			<p>
+			쇠고기등심 3컵,양파 1개, 표고버섯 1/2컵, 대파 1개, 홍고추 1개, 황설탕 2.5 숟가락, 물엿 1숟가락, 양파 간 것 2숟가락, 다진마늘 1큰술, 진간장 6큰술, 후추, 통깨, 참기름 3큰술
+			</p>
+			<h3>조리과정</h3>
+			<img class="center" src="cook2.jpg" width="482" height="482">
+			<ul>
+			<ol>1. 대파, 홍고추는 어슷썰기하고 표고버섯은 가늘게 편 썬다.</ol>
+			<ol>2. 양파는 굵게 채 썰고 일부는 작게 자른 후 믹서기에 갈아 준비한다.</ol>
+			<ol>3. 믹싱 볼에 쇠고기, 설탕, 물엿을 넣고 섞은 후 10분 정도 재운다.</ol>
+			<ol>4. 재워진 고기에 진간장, 간 양파, 다진 마늘, 후춧가루, 참기름을 넣고 골고루 섞는다.</ol>
+			<ol>5. 양념한 고기에 양파, 표고버섯, 홍고추, 대파를 넣고 섞는다.</ol>
+			<ol>6. 예열된 팬에 불고기를 넣고 볶은 후 통깨를 뿌려 마무리한다.</ol>
+			</ul>
+
+		</div>
+			<div id="sidebar">
+				<div class="box2">
+					<div class="title">
+						<h2>요리 목록</h2>
+					</div>	
+					<ul class="style2">
+						<li><a href="cook.html">불고기</a></li>	
+						<li><a href="cook1.html">닭똥집 볶음</a></li>		
+					</ul>
+				</div>
+			</div>
+	</div>
+</div>
+<div id="portfolio-wrapper">
+	<div id="portfolio" class="container">	
+		<div class="column1">
+			<div class="title">
+				<h2>불고기</h2>
+			</div>
+			<a href="cook.html"><img src="cook2.jpg" width="150" height="150"></a>
+		</div>
+		<div class="column2">
+			<div class="title">
+				<h2>닭똥집 볶음</h2>
+			</div>
+			<a href="cook1.html"><img src="cook3.png" width="150" height="150"></a>
+		</div>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>전화번호 : 010-5513-9525 ｜이메일 : elva0619@naver,com</p>
+</div>
+</body>
+</html>
