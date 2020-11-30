@@ -1,9 +1,12 @@
 @charset "UTF-8";
+@font-face{font-family:'Nanum Gothic'; src:url('/fonts/NanumGothic.woff')}
+@font-face{font-family:'Nanum Gothic'; src:url('/fonts/NanumGothic.eot')}
+body, table, div, p {font-family:'Nanum Gothic';}
 body {
 	margin: 0px;
 	padding: 0px;
 	background: #BCDAF4;
-	font-family: 'Gothic', 'chivo', sans-serif;
+	font-family: 'Nanum Gothic','chivo', sans-serif;
 	font-size: 12pt;
 	font-weight: 300;
 	color: #09E5FC;
